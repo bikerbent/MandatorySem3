@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.deps.json
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.json
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.dll
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.pdb
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\bin\Debug\netcoreapp2.1\Components.dll
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\bin\Debug\netcoreapp2.1\Components.pdb
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CopyComplete
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.dll
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.pdb

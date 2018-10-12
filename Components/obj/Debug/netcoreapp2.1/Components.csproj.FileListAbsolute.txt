@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\bin\Debug\netcoreapp2.1\Components.deps.json
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\bin\Debug\netcoreapp2.1\Components.dll
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\bin\Debug\netcoreapp2.1\Components.pdb
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\obj\Debug\netcoreapp2.1\Components.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\obj\Debug\netcoreapp2.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\obj\Debug\netcoreapp2.1\Components.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\obj\Debug\netcoreapp2.1\Components.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\obj\Debug\netcoreapp2.1\Components.dll
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\Components\obj\Debug\netcoreapp2.1\Components.pdb

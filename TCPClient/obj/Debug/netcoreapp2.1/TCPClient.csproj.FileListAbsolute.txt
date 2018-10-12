@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.deps.json
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.runtimeconfig.json
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.dll
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\bin\Debug\netcoreapp2.1\TCPClient.pdb
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.dll
+C:\Users\Daniel\Desktop\MandatorySem3\MandatorySem3\TCPClient\obj\Debug\netcoreapp2.1\TCPClient.pdb
